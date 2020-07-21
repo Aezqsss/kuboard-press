@@ -372,3 +372,5 @@ http://任意一个Worker节点的IP地址:32567/console/yournamespace/yourpod?c
 - 尝试 Kuboard 设计的其他 example [使用 Kuboard](/guide/index.html)
 
 - 学习 [Kubernetes免费教程](/learning/)
+
+1
